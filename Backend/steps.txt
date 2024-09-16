@@ -1,3 +1,0 @@
-[] Setup biDirectional api endpoints with Frontend
-[] use package such as Cors,compression,socket,dotenv
-[] create Events

@@ -1,0 +1,32 @@
+
+.footer {
+    color: black;
+    padding: 15px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-links {
+    margin-bottom: 10px;
+    display: flex;
+  }
+  
+  .footer-logo {
+    width: 40px; 
+    margin: 0 10px;
+    vertical-align: middle;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+  }
+  
+  .footer-text strong {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,42 @@
+.boardStyle {
+    width: 48%;
+    height: inherit;
+    background-color: white;
+    border: 2px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 1%;
+    padding: 20px;
+    overflow-y: auto;
+    position: relative;
+
+  }
+  
+  .editorBody-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: #f0f0f0;
+  }
+  
+
+.boardStyle:focus {
+    border: none; 
+    outline: 0;
+    box-shadow: none; 
+  }
+
+
+.clear-Btn{
+position: absolute;
+bottom: 1px;
+left: 1px;
+height: 30px;
+width: 60px;
+border: 1px solid ;
+border-radius: 5px;
+background-color: rgb(96, 150, 215);
+font-weight: 300;
+cursor: pointer;
+
+}
