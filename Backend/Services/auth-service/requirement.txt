@@ -1,0 +1,21 @@
+
+// Token based auth
+
+let version = 'v1'
+/${version}/token/getToken
+
+version = 'v2'
+/${version}/token/getToken 
+
+
+//verify Token 
+post/
+
+//resend new Token with refresh Token 
+post//
+
+
+// data to be stored in local 
+
+
+
